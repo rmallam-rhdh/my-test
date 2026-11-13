@@ -1,0 +1,3 @@
+site_name: 'my-test'
+nav:
+  - Home: index.md
